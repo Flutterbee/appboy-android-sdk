@@ -24,6 +24,7 @@ out/
 # Generated files
 bin/
 gen/
+.settings/
 
 # built application files
 *.apk
@@ -40,3 +41,6 @@ local.properties
 .DS_Store
 
 android-support-v4.jar
+
+# JDT-specific (Eclipse Java Development Tools)
+.classpath
